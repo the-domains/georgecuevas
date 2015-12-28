@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[George Cuevas]]></title>
+        <description><![CDATA[George Cuevas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 17:18:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When the web goes automatic]]></title>
+            <description><![CDATA[<article><h1>When the web goes automatic</h1><p>As a designer we all have wondered can designing for the web get any easier? There has to be a better way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/752ed7bfd7a97b126dc63667027c615483ac5f49.jpg"></article>]]></description>
+            <link>undefinedwhen-the-web-goes-automatic/index.html</link>
+            <guid isPermaLink="false">fec5768c-ec35-44c9-9093-3ebd346af4c7</guid>
+            <pubDate>Mon, 28 Dec 2015 17:18:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
