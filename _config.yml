@@ -1,6 +1,6 @@
 name: GeorgeCuevas
 favicon: null
-layout_spectrum: 0.74624
+layout_spectrum: 1
 typography_spectrum: 0.75347
 title: TheWorks
 cta:
@@ -24,6 +24,6 @@ color:
     - '#3B28CC'
   brandStrength: 0.6875
   lightness: 0.3614605616312474
-  saturation: 0.8944953065365553
-  rhythmicContrast: 0.03383706952445209
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
