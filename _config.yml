@@ -1,7 +1,7 @@
 name: GeorgeCuevas
 favicon: null
-layout_spectrum: 0.02943506697192788
-typography_spectrum: 0.04561941954307258
+layout_spectrum: 1
+typography_spectrum: 0.75347
 title: George Cuevas
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.412707804935053
+  brandStrength: 0.6875
   lightness: 0.3614605616312474
   saturation: 0.8944953065365553
   rhythmicContrast: 0.03383706952445209
