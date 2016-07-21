@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 0.75
-  brandStrength: 0.6875
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#f8f8f8'
-    - '#000000'
-    - '#b9b9b9'
-    - '#3e3d42'
-    - '#74747c'
+  brandStrength: 0.5
   lightness: 0.75
+  brandColors:
+    - '#F0FEFE'
+    - '#090909'
+    - '#67312D'
+    - '#D1C7BB'
+    - '#667458'
+  rhythmicContrast: 0.5
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: GeorgeCuevas
 favicon: null
+name: GeorgeCuevas
 opengraph:
   image: null
   type: null
